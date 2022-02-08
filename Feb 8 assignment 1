@@ -1,0 +1,26 @@
+a=20
+b=15
+Print(a<b)
+Print(a>b)
+Print(a<=b)
+Print(a>=b)
+Print(a==b)
+Print(a!=b)
+Output
+False
+True
+False
+True
+False
+True
+
+
+Kilometer=int(input(*Enter the length in kilometer:))
+#convert kilometer to cm
+Centimeter=100000*kilometer;
+Print("The length in centimeter",round(centimeter,2))
+Output:
+Enter the length in kilometer:25
+The length in centimeter 2500000.00
+
+
